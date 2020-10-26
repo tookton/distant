@@ -1,5 +1,5 @@
-Считать из входного файла a1 a2 b1 b2 count
-Записать в выходной файл tuple1 tuple2 tuple3 count
+#Считать из входного файла a1 a2 b1 b2 count
+#Записать в выходной файл tuple1 tuple2 tuple3 count
 
 
 from random import *
